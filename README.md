@@ -30,27 +30,27 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Sık Kullanılan GitHub Terimleri
-Repository
+#Sık Kullanılan GitHub Terimleri
+#Repository
 Kelime anlamı: depo, veri deposu, veri havuzu.
 
 Projenin bütün dosya ve klasörlerini içinde tutan veritabanı gibi düşünülebilir. Her bir proje, GitHub'da bir repository olarak tutulabilir. Sadece dosyalar değil, dosyalarda yapılan değişikliklerin geçmişi de burada tutulur.
 
 Bir repository birden fazla kullanıcı arasında paylaşılabilir ve kopyalanabilir (bkz: fork).
 
-Branch
+#Branch
 Kelime anlamı: dal, şube, ayırmak.
 
 Projeye yeni bir özellik eklenmek istendiğinde ya da bir değişiklik yapılacağı zaman, yeni bir branch açılır ve bütün değişiklikler bu branch üzerinde yapıldıktan sonra master branch ile birleştirilir (bkz: merge).
 
-Fork
+#Fork
 Kelime anlamı: çatal, çatallanmak.
 
 Başka birisine ait bir repository üzerinde çalışmak istediğinizde projeyi kendi GitHub hesabınıza kopyalamak için onu fork edebilirsiniz. Fork edilen projeler, projenin aslında bir güncelleme olduğunda bu değişikliklerden etkilenmezler.
 
 Kendi hesabınıza kaydetmek istediğiniz projenin GitHub sayfasında sağ üst köşedeki Fork butonuna basarak fork işlemini gerçekleştirebilirsiniz.
 
-Clone
+#Clone
 Kelime anlamı: kopyalamak, klonlamak.
 
 Bir projeyi bilgisayarınıza indirmek istediğinizde clone komutunu kullanabilirsiniz.
@@ -61,7 +61,7 @@ Kullanıcı Bilgileri Ayarları
 git config --global user.email "emailadresiniz@orneksite.com
 Bu komut ile yerelde yaptığınız değişikliklerin hangi GitHub hesabı ile ilişkilendirileceğini ayarlayabilirsiniz.
 
-Sık Kullanılan GitHub Komutları
+#Sık Kullanılan GitHub Komutları
 Bir önceki derste bilgisayarımıza Git Bash kurmuştuk. Şimdi Git Bash komut satırını kullanarak GitHub projeleri nasıl klonlanır, değişiklikler nasıl kaydedilir, gibi sorulara cevap niteliğindeki bazı komutlara bakalım.
 
 git status
