@@ -30,8 +30,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-#Sık Kullanılan GitHub Terimleri
-#Repository
+# Sık Kullanılan GitHub Terimleri
+# Repository
+
 Kelime anlamı: depo, veri deposu, veri havuzu.
 
 Projenin bütün dosya ve klasörlerini içinde tutan veritabanı gibi düşünülebilir. Her bir proje, GitHub'da bir repository olarak tutulabilir. Sadece dosyalar değil, dosyalarda yapılan değişikliklerin geçmişi de burada tutulur.
